@@ -1,1 +1,1 @@
-# BigMan
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max634)](https://github.com/anuraghazra/github-readme-stats)
